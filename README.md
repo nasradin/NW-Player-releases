@@ -6,11 +6,13 @@
 
 ## ⬇️ التحميل
 
-### [📥 حمّل أحدث إصدار — NW Player PRO (APK)](https://github.com/nasradin/NW-Player-Releases/releases/latest/download/nwplayer-pro.apk)
+### [📥 حمّل أحدث إصدار — NW Player PRO (APK)](https://github.com/nasradin/NW-Player-Releases/releases/latest/download/nwplayer-pro-arm64-v8a.apk)
 
 رابط ثابت يقدّم دائمًا أحدث نسخة منشورة. أو امسح الباركود بكاميرا هاتفك:
 
-![باركود تحميل NW Player PRO](https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=10&data=https://github.com/nasradin/NW-Player-Releases/releases/latest/download/nwplayer-pro.apk)
+![باركود تحميل NW Player PRO](https://api.qrserver.com/v1/create-qr-code/?size=220x220&margin=10&data=https://github.com/nasradin/NW-Player-Releases/releases/latest/download/nwplayer-pro-arm64-v8a.apk)
+
+> 📱 هذا الرابط لمعالجات **arm64-v8a** — وهي معالجات أغلب الهواتف الحديثة. إن كان جهازك قديمًا (arm-v7) أو تستخدم محاكيًا على الكمبيوتر (x86_64)، اختر الملف المناسب لجهازك من [صفحة أحدث إصدار](https://github.com/nasradin/NW-Player-Releases/releases/latest).
 
 [![ادعم المشروع](donate-button.svg)](DONATE.md)
 
