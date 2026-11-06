@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "messages": [
+    {
+      "id": "2026-11-welcome",
+      "date": "2026-11-07",
+      "title_ar": "أهلاً بك في NW Player PRO",
+      "title_en": "Welcome to NW Player PRO",
+      "body_ar": "ستصلك هنا أخبار التحديثات والإعلانات المهمة. لإرسال شكوى أو اقتراح: القائمة ⋮ ثم «الشكاوى والاقتراحات».",
+      "body_en": "Update news and important announcements will appear here. To send a complaint or suggestion: menu ⋮ then \"Complaints & suggestions\".",
+      "url": "",
+      "important": false,
+      "min_build": 0,
+      "max_build": 0,
+      "expires": ""
+    }
+  ]
+}
